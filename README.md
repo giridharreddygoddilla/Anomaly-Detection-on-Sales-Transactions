@@ -1,4 +1,4 @@
-# Clustering-Based Anomaly Detection on Sales Transactions
+# Anomaly Detection on Sales Transactions
 
 ## Project Overview
 In this project, I worked with weekly retail sales data to understand product behaviour and identify unusual patterns.
